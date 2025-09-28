@@ -1,0 +1,16 @@
+# Python Sudoku Generator and Solver Requirements
+# 
+# This file lists the Python packages required to run the Sudoku generator and solver.
+# Install with: pip install -r requirements.txt
+
+# Testing framework
+pytest>=7.0.0
+
+# Type checking (optional, for development)
+mypy>=1.0.0
+
+# Code formatting (optional, for development)
+black>=22.0.0
+
+# Linting (optional, for development)
+flake8>=5.0.0
