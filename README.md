@@ -5,6 +5,8 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Tests](https://img.shields.io/badge/tests-27%20passing-brightgreen.svg)](https://github.com/joecarlson/python-sudoku-generator-solver)
 
+![A Sudoku board drawn in chalk solving itself: the solver fills the blank cells in pink, a few at a time, as the count climbs from 30 to 81 and the board reads Solved](images/sudoku-solving.webp)
+
 A comprehensive, modern Python implementation of a Sudoku puzzle generator and solver with multiple difficulty levels. This project features constraint propagation, backtracking algorithms, and a clean, well-tested codebase.
 
 ## ✨ Features
