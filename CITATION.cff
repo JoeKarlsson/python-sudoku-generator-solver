@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Python Sudoku Generator and Solver"
+abstract: "A Python Sudoku generator that makes puzzles at four difficulty levels, and a solver for even the hardest puzzles."
+authors:
+  - family-names: Karlsson
+    given-names: Joe
+    website: "https://www.joekarlsson.com"
+repository-code: "https://github.com/JoeKarlsson/python-sudoku-generator-solver"
+license: MIT
+keywords:
+  - sudoku
+  - puzzle generator
+  - solver
+  - Python
