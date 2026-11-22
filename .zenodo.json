@@ -1,0 +1,17 @@
+{
+	"title": "Python Sudoku Generator and Solver",
+	"description": "A Python Sudoku generator that makes puzzles at four difficulty levels, and a solver for even the hardest puzzles.",
+	"upload_type": "software",
+	"creators": [
+		{
+			"name": "Karlsson, Joe"
+		}
+	],
+	"license": "MIT",
+	"keywords": [
+		"sudoku",
+		"puzzle generator",
+		"solver",
+		"Python"
+	]
+}
