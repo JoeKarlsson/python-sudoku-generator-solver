@@ -6,6 +6,7 @@ abstract: "A Python Sudoku generator that makes puzzles at four difficulty level
 authors:
   - family-names: Karlsson
     given-names: Joe
+    orcid: 'https://orcid.org/0009-0005-8048-9559'
     website: "https://www.joekarlsson.com"
 repository-code: "https://github.com/JoeKarlsson/python-sudoku-generator-solver"
 license: MIT
